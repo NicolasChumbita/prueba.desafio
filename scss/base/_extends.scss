@@ -1,0 +1,22 @@
+%mensaje {
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    background-color:nth($colores , 6);
+    letter-spacing: 4px;
+    font-family: 'Poppins', sans-serif;
+}
+
+%mensaje2 {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+%mensaje3{
+    font-size: 15px;
+    display: flex;
+    justify-content: left;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}

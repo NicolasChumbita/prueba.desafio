@@ -1,0 +1,42 @@
+/*Nesting o Anidamiento*/
+/*Inicio de Inicio*/
+@import "../base/listas";
+
+
+.body0, .body1, .body2, .body3{
+    background-color: nth($colores , 1);    
+}
+.container-fluid{
+    background-color: nth($colores , 2);
+}
+.nav-link{
+    font-size: 30px;
+    background-color: nth($colores , 3);
+    text-transform: uppercase;
+    }
+
+.quienes-somos ,.nuestros-servicios1 ,.nuestros-clientes1{
+    color: nth($colores , 4);
+    background-color: nth($colores , 6 );
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif ;
+    text-decoration: underline;
+}
+
+.fp ,.ul-nav, .ul-nav1{
+    color:nth($colores , 4);
+    background-color: nth($colores , 5);
+    font-size:20px;
+    display: flex;
+    flex-direction: column;
+    text-decoration:none;
+    letter-spacing: 4px;
+    font-style: initial;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 470px;
+    }
+    /*Fin de Inicio*/
+
+

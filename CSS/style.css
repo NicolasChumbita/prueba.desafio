@@ -1,0 +1,177 @@
+.nuestros-clientes2 {
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  background-color: palegoldenrod;
+  letter-spacing: 4px;
+  font-family: "Poppins", sans-serif;
+}
+
+.alladio, .valeo, .lequipe, .mondial, .brava, .corven, .renault {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.p6, .p7, .p8, .p9, .p10, .p11, .p12 {
+  font-size: 15px;
+  display: flex;
+  justify-content: left;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+/*Nesting o Anidamiento*/
+/*Inicio de Inicio*/
+.body0, .body1, .body2, .body3 {
+  background-color: silver;
+}
+
+.container-fluid {
+  background-color: #ff8243;
+}
+
+.nav-link {
+  font-size: 30px;
+  background-color: #ffa400;
+  text-transform: uppercase;
+}
+
+.quienes-somos, .nuestros-servicios1, .nuestros-clientes1 {
+  color: black;
+  background-color: palegoldenrod;
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: underline;
+}
+
+.fp, .ul-nav, .ul-nav1 {
+  color: black;
+  background-color: cadetblue;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  letter-spacing: 4px;
+  font-style: initial;
+  font-family: "Open Sans", sans-serif;
+  padding-left: 470px;
+}
+
+/*Fin de Inicio*/
+/*Nesting o Anidamiento*/
+/*Nuestros-Servicios*/
+.nuestros-clientes2 {
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  background-color: palegoldenrod;
+  letter-spacing: 4px;
+  font-family: "Poppins", sans-serif;
+}
+
+.alladio, .valeo, .lequipe, .mondial, .brava, .corven, .renault {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.p6, .p7, .p8, .p9, .p10, .p11, .p12 {
+  font-size: 15px;
+  display: flex;
+  justify-content: left;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+.body2 {
+  color: silver;
+}
+
+.nuestros-servicios2 {
+  background-color: cadetblue;
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  letter-spacing: 4px;
+  font-family: "Poppins", sans-serif;
+}
+
+.lista2 {
+  background-color: palegoldenrod;
+  font-size: 20px;
+}
+
+.logistica, .calidad-en-procesos, .consultoria, .atencion-al-cliente, .investigacion {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.p1, .p2, .p3, .p4, .p5 {
+  color: black;
+  background-color: cadetblue;
+  font-size: 16px;
+  display: flex;
+  justify-content: left;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+/*Fin de Nuestros-Servicios*/
+/*Nesting o Anidamiento*/
+/*Inicio de Nuestros-Clientes*/
+.nuestros-clientes2 {
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  background-color: palegoldenrod;
+  letter-spacing: 4px;
+  font-family: "Poppins", sans-serif;
+}
+
+.alladio, .valeo, .lequipe, .mondial, .brava, .corven, .renault {
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.p6, .p7, .p8, .p9, .p10, .p11, .p12 {
+  font-size: 15px;
+  display: flex;
+  justify-content: left;
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+.nuestros-clientes2 {
+  color: black;
+}
+
+.ol {
+  background-color: silver;
+}
+
+.p6, .p7, .p8, .p9, .p10, .p11, .p12 {
+  background-color: cadetblue;
+}
+
+/*Fin de Nuestros-Clientes*/
+/*Nesting o Anidamiento*/
+/*Inicio de Contacto*/
+.nav.container2 {
+  background-color: chocolate;
+}
+
+#lista5 {
+  font-size: 20px;
+  text-decoration: solid;
+  text-transform: uppercase;
+}
+
+/*Fin de Contacto*/
+
+/*# sourceMappingURL=style.css.map */

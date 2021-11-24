@@ -1,0 +1,20 @@
+/*Nesting o Anidamiento*/
+/*Inicio de Nuestros-Clientes*/
+@import "../base/listas";
+@import "../base/extends";
+
+.nuestros-clientes2{
+    color: nth($colores , 4);
+    @extend %mensaje;
+}
+.ol{
+    background-color:nth($colores , 1);
+}
+.alladio, .valeo, .lequipe, .mondial, .brava, .corven, .renault {
+    @extend %mensaje2;
+}
+.p6, .p7, .p8, .p9, .p10, .p11, .p12{
+    background-color: nth($colores , 5);
+    @extend %mensaje3;
+}
+/*Fin de Nuestros-Clientes*/

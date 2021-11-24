@@ -1,0 +1,13 @@
+/*Nesting o Anidamiento*/
+/*Inicio de Contacto*/
+@import "../base/listas";
+
+.nav.container2{
+    background-color: nth($colores , 7);
+}
+#lista5{
+    font-size: 20px;
+    text-decoration: solid;
+    text-transform: uppercase;
+}
+/*Fin de Contacto*/
